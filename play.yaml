@@ -1,0 +1,6 @@
+---
+- name: Solving the ansible issue
+  hosts: all
+  tasks:
+    - name: working with command module
+      command: echo "Hi"
