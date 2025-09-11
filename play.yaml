@@ -6,3 +6,5 @@
       command: echo "Hi"
     - name: command
       command: echo "Webhook"
+    - name: working with command module
+      command: echo "My Github-Webhoook is Triggered"
