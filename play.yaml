@@ -4,3 +4,5 @@
   tasks:
     - name: working with command module
       command: echo "Hi"
+    - name: command
+      command: echo "Webhook"
